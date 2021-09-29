@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnivChakravarty
+- 👋 Hi, I’m Aniv Chakravarty
 - 👀 I’m interested in Artificial Intelligence, its concepts and application
 - 🌱 I’m currently learning Masters in Artificial Intelligence
-- 💞️ I’m looking to collaborate on all sorts of stuff related to AI
+- 💞️ I’m looking to collaborate on all sorts of stuff related to Programming, Artificial Intelligence and Computer Science
 - 📫 How to reach me anivchakravarty@gmail.com
 
 <!---
